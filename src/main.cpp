@@ -16,7 +16,7 @@ DynamicJsonDocument wifiData(1024);
 DynamicJsonDocument wifiData_compl(1024);
 String json;
 
-// Fix for WiFi Client -> Buffur overrun
+// Fix for WiFi Client -> Buffer overrun
 WiFiClient* client = new WiFiClientFixed();
 HTTPClient http;
 
