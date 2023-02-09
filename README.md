@@ -12,7 +12,6 @@ fill out these lines:
 
 
 const char* wifi_ssid = "Your WiFi SSID";
-
 const char* wifi_password = "Your WiFi Password";
 
 String serverIP = "123.456.789.123";
