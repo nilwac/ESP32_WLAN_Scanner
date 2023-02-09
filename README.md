@@ -11,7 +11,7 @@ project_folder/src/config.h
 
 fill out these lines:
 
-'''
+´´´
 const char* wifi_ssid = "Your WiFi SSID";
 const char* wifi_password = "Your WiFi Password";
 String serverIP = "123.456.789.123";
@@ -24,4 +24,4 @@ String httpHeaderKey = "Your API Key";
 int submit_delay = 10;
 int loop_delay = 1000;
 int wifi_disconnect_delay = 100;
-'''
+´´´
